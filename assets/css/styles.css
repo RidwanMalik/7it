@@ -1,112 +1,111 @@
 #header {
-  min-height:100vh;
-  background-image:url("../../assets/img/cup-of-coffee-1280537_1920.jpg");
-  background-position:bottom;
-  background-size:cover;
-  background-repeat:no-repeat;
+  min-height: 90vh;
+  background-image: url("../../assets/img/cup-of-coffee-1280537_1920.jpg");
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #heading {
-  font-weight:300;
+  font-weight: 300;
 }
 
 .btn-2 {
-  border-radius:2rem;
+  border-radius: 2rem;
 }
 
 .btn-2:hover {
-  border:1px solid #fff;
-  background-color:rgba(0,0,0,0.4);
-  color:#fff;
+  border: 1px solid #fff;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: #fff;
 }
 
 .btn-3 {
-  border-radius:2rem;
-  border:1px solid #fff;
-  background-color:rgba(0,0,0,0.6);
-  color:#fff;
+  border-radius: 2rem;
+  border: 1px solid #fff;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
 }
 
 #about h2 {
-  text-transform:none !important;
+  text-transform: none !important;
 }
 
 #about {
-  background-color:rgb(236,245,255);
+  background-color: rgb(236, 245, 255);
 }
 
 .service-icon {
-  border:2px solid #1F2041;
-  border-radius:50%;
-  height:65px;
-  width:65PX;
-  font-size:28px;
-  color:#1F2041;
+  border: 2px solid #1F2041;
+  border-radius: 50%;
+  height: 65px;
+  width: 65PX;
+  font-size: 28px;
+  color: #1F2041;
 }
 
 .service-icon:hover {
-  border:2px solid #1F2041;
-  color:#fff;
-  background-color:#1F2041;
+  border: 2px solid #1F2041;
+  color: #fff;
+  background-color: #1F2041;
 }
 
 .service-text {
-  font-size:20px;
-  color:#1F2041;
+  font-size: 20px;
+  color: #1F2041;
 }
 
 .link-hover {
-  text-decoration:none !important;
+  text-decoration: none !important;
 }
 
 #contact {
-  background-color:#ecf5ff;
+  background-color: #ecf5ff;
 }
 
 #contact textarea {
-  min-height:50px !important;
+  min-height: 50px !important;
 }
 
 #main-nav {
-  background-color:#393939;
+  background-color: #393939;
 }
 
 #main-nav .nav-link {
-  color:#ffffff !important;
+  color: #ffffff !important;
 }
 
-#main-nav .dropdown-menu > a {
-  color:#ffffff;
+#main-nav .dropdown-menu>a {
+  color: #ffffff;
 }
 
-#main-nav .dropdown-menu > a:hover {
-  background-color:#0063cc;
-  color:#ffffff;
+#main-nav .dropdown-menu>a:hover {
+  background-color: #0063cc;
+  color: #ffffff;
 }
 
 #training-hero {
-  height:90vh;
-  background-image:url("../../assets/img/7it traning.jpg");
-  background-position:bottom;
-  background-repeat:no-repeat;
-  background-size:cover;
+  height: 90vh;
+  background-image: url("../../assets/img/7it traning.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .rounded-pill {
-  border-radius:50rem !important;
+  border-radius: 50rem !important;
 }
 
 @media (min-width: 768px) {
   .border-l-md-0 {
-    border-top-right-radius:0 !important;
-    border-bottom-right-radius:0 !important;
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
   }
 }
 
 @media (min-width: 768px) {
   .border-r-md-0 {
-    border-top-left-radius:0 !important;
-    border-bottom-left-radius:0 !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
   }
 }
-
